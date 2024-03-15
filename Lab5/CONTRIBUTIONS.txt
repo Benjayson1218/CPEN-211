@@ -1,0 +1,43 @@
+regfile.sv
+regfile_tb.sv
+Contibutions: 
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Both members tested and debugged the code in Model Sim and Quartus while on voice call.
+
+ALU.sv
+ALU_tb.sv
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other.
+- Both members tested and debugged the code in Model Sim and Quartus while on voice call.
+
+shifter.sv
+shifter_tb.sv
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Both members tested and debugged the code in Model Sim and Quartus while on voice call.
+
+datapath.sv
+datapath_tb.sv
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Both members tested and debugged the code in Model Sim and Quartus while on voice call.
+
+lab5_top.sv
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+
+CONTRIBUTIONS.txt
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers typed the file out together in Visual Studio Live Share while communicating on voice call with each other. 
