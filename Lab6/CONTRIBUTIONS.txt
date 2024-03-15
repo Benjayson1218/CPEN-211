@@ -1,0 +1,23 @@
+cpu.sv
+cpu_tb.sv
+Contibutions: 
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Both members tested and debugged the code in Model Sim and Quartus while on voice call.
+
+ALU.sv
+regfile.sv
+shifter.sv
+datapath.sv
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers updated the code together in Visual Studio Live Share while communicating on voice call with each other.
+- Both members tested and debugged the code in Model Sim and Quartus while on voice call.
+
+CONTRIBUTIONS.txt
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers typed the file out together in Visual Studio Live Share while communicating on voice call with each other. 
