@@ -1,0 +1,13 @@
+lab4.s
+Contibutions: 
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Both members wrote roughly the same amount of code
+- Both memebers used FPGA monitor and tested the code on the DE1-Soc together over video call
+
+CONTRIBUTIONS.txt
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers typed the file out together in Visual Studio Live Share while communicating on voice call with each other. 
