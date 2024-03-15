@@ -16,7 +16,7 @@ Contributions:
 - Ben performed the Model Sim simulation while screen sharing so Ashleen could see.
 - Both members analyzed and troubleshot the design flaws after simulating and generating the wave view.
 
-Second Model SimSimulation:
+Second Model Sim Simulation:
 lab3_wave_gatelevel.do
 tb_lab3_gate.sv
 lab3_postSynthesis.mpf
