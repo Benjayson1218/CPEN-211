@@ -1,0 +1,34 @@
+lab3_top.sv
+Contibutions: 
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Both members wrote roughly the same amount of code
+
+First Model Sim simulation:
+lab3_wave_rtl.do
+tb_lab3.sv
+lab3.mpf
+Contributions:
+- Ashleen = 40%
+- Ben = 60%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Ben performed the Model Sim simulation while screen sharing so Ashleen could see.
+- Both members analyzed and troubleshot the design flaws after simulating and generating the wave view.
+
+Second Model SimSimulation:
+lab3_wave_gatelevel.do
+tb_lab3_gate.sv
+lab3_postSynthesis.mpf
+Contributions:
+- Ashleen = 60%
+- Ben = 40%
+- Both group memebers coded together in Visual Studio Live Share while communicating on voice call with each other. 
+- Ashleen performed the Model Sim simulation while screen sharing so Ben could see.
+- Both members analyzed and troubleshot the design flaws after simulating and generating the wave view.
+
+CONTRIBUTIONS.txt
+Contributions:
+- Ashleen = 50%
+- Ben = 50%
+- Both group memebers typed the file out together in Visual Studio Live Share while communicating on voice call with each other. 
